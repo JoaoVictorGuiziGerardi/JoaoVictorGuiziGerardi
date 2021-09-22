@@ -3,7 +3,7 @@
 
 ##
 
-- 🔭 Working on ITShare - Soluções em Tecnologia
+- 🔭 Intern at ITShare - Soluções em Tecnologia
 - 🌱 Currently learning Java
 - 📫 How to reach me: jggerardi@gmail.com
 - 😄 Pronouns: his/him
