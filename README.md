@@ -5,9 +5,6 @@
 
 - 🔭 Working on ITShare - Soluções em Tecnologia
 - 🌱 Currently learning Java
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: jggerardi@gmail.com
 - 😄 Pronouns: his/him
 - ⚡ Fun fact: I love Star Wars <img src="https://user-images.githubusercontent.com/68558987/134263300-81cb5172-15ed-4f8e-a4cb-3a9d7f10d5a0.png" width="17">
@@ -33,6 +30,6 @@
  <a href="JoaoGuizi#4636" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jggerardi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-    ![Snake animation](https://github.com/JoaoVictorGuiziGerardi/JoaoVictorGuiziGerardi/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
+
+  ##
