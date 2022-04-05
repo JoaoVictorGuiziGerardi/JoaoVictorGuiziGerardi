@@ -13,8 +13,8 @@
 
 <div>
   <a href="https://github.com/JoaoVictorGuiziGerardi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorGuiziGerardi&show_icons=true&theme=sea&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorGuiziGerardi&layout=compact&langs_count=7&theme=sea"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorGuiziGerardi&show_icons=true&theme=sea&include_all_commits=true&count_private=true&cache_seconds=7200"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorGuiziGerardi&layout=compact&langs_count=7&theme=sea&cache_seconds=7200"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
