@@ -3,8 +3,8 @@
 
 ##
 
-- 🔭 Intern at ITShare - Soluções em Tecnologia
-- 🌱 Currently learning Java
+- 🔭 IT Analyst at ITShare - Soluções em Tecnologia
+- 🌱 Currently learning JavaScript
 - 📫 How to reach me: jggerardi@gmail.com
 - 😄 Pronouns: his/him
 - ⚡ Fun fact: I love Star Wars <img src="https://user-images.githubusercontent.com/68558987/134263300-81cb5172-15ed-4f8e-a4cb-3a9d7f10d5a0.png" width="17">
